@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ta11ey
-- 👀 I’m interested in building things at the intersection of the outdoors and technologies
+- 👀 I’m interested in building things at the intersection 🎯 of the outdoors and technology
 - 🌱 I’m currently learning Serverless & Devops technologies to move into that space
-- 💞️ I’m currently a Senior Front-End Developer Working with Dfuzr on cool projects at Facebook & Diem
+- 💞️ I’m currently a Senior Front-End Developer & Expert in Typescript & React Working with Dfuzr on cool projects at Facebook & Diem
