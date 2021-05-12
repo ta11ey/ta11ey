@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ta11ey
 - 👀 I’m interested in building things at the intersection 🎯 of the outdoors and technology
 - 🌱 Learning Serverless & Devops technologies
-- 💞️ Expert in Typescript & React Working
+- 💞️ Expert in Typescript & React 
